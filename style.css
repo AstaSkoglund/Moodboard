@@ -1,0 +1,17 @@
+#colorbox{
+    width: 300px;
+    height: 300px;
+    border: 15px solid beige;
+    background-color: black;
+    margin:auto;
+
+
+}
+#input{
+    margin: 100px;
+}
+
+#swag{
+    margin: 100px;
+    font-size: 30;
+}
